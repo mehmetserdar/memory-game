@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/02560a80-74ef-4f24-bdab-a43a3169eb8f/deploy-status)](https://app.netlify.com/sites/memo-game-js/deploys)
+
 # Memory Game
 A retro grid-based game in vanilla JavaScript, HTML and CSS
 
